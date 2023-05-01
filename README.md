@@ -14,7 +14,7 @@ Within the command line, type "npm i" to install the app's dependencies (Express
 
 ## Usage
 
-Open the website (<>) and press the "Get Started" button. Enter a title and description for a new note, then press the "Save" icon in the top-right corner to save the note.
+Open the files in a command line, type "node server.js", and press the "Get Started" button. Enter a title and description for a new note, then press the "Save" icon in the top-right corner to save the note.
 
 Past notes can be accessed by clicking on them in the left column, and they can be deleted by clicking on the red "trash" icon next to them. Existing text is cleared when the top-right "plus" icon is pressed - allowing the user to create a new note.
 
